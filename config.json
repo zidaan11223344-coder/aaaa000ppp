@@ -1,0 +1,36 @@
+{
+  "supabase_url": "https://rdoiynqyaaglgpuiwcla.supabase.co",
+  "supabase_key": "sb_publishable_UJH-IypAuHV2VAi5oi8rjA_EpYJRpMW",
+  "username": "الاميرةجنات",
+  "password": "a665544",
+  "owner_username": "alsfer",
+  "room_password": "",
+  "poll_seconds": 2,
+  "music_search_url": "https://giant-chat-app.lovable.app/api/public/search-track",
+  "music_hourly_limit": 100,
+  "music_cache_ttl_seconds": 600,
+  "youtube_cookie_files": [
+    "youtube_cookies.txt"
+  ],
+  "tiktok_cookie_files": [],
+  "tiktok_search_url": "",
+  "gift_public_base_url": "https://YOUR_USERNAME.pythonanywhere.com/gifts",
+  "broadcast_images_to_all": true,
+  "bot_gifts_use_supabase": false,
+  "youtube_web_search_url": "https://www.youtube.com/results",
+  "youtube_data_api_key": "",
+  "piped_api_bases": [
+    "https://api.piped.private.coffee",
+    "https://pipedapi.orangenet.cc",
+    "https://pipedapi.kavin.rocks",
+    "https://pipedapi.adminforge.de",
+    "https://pipedapi.leptons.xyz"
+  ],
+  "media_gateway_url": "https://YOUR_USERNAME.pythonanywhere.com",
+  "media_gateway_token": "",
+  "spotify_public_url": "https://www.spotify.com",
+  "spotify_search_prefix": "spsearch1:",
+  "spotify_cookie_files": [
+    "spotify_cookies.txt"
+  ]
+}
